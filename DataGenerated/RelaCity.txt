@@ -1,0 +1,7 @@
+0 | Paris
+1 | Vannes
+2 | Dublin
+3 | Lorient
+4 | Arras
+5 | Cambrai
+6 | Lille
