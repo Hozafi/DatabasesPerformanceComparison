@@ -6,8 +6,8 @@ class RelationnalGenerator
 public:
 	RelationnalGenerator();
 	~RelationnalGenerator();
-	static void generatePerson(const std::vector<int>& tabAge, const std::vector<std::string>& tabName);
-	static void generateCity(const std::vector<char*>& tabCity);
-	static void generateIsFriend();
+	static void generatePerson(const std::vector<int>& tabAge, const std::vector<std::string>& tabName, int nb_person, char* separator);
+	static void generateCity(const std::vector<char*>& tabCity, char* separator);
+	static void generateIsFriend(int nb_person, char* separator);
 };
 
