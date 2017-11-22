@@ -3,6 +3,6 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#define NB_PERSON 25
-#define NB_VILLE 7
+#define NB_PERSON 1000
+#define NB_VILLE 50
 #define SEPARATOR " | "

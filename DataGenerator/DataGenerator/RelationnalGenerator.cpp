@@ -10,7 +10,7 @@ RelationnalGenerator::~RelationnalGenerator()
 {
 }
 
-void RelationnalGenerator::generatePerson(const std::vector<int>& tabAge, const std::vector<std::string>& tabName, int nb_person, char* separator)
+void RelationnalGenerator::generatePerson(const std::vector<int>& tabAge, const std::vector<std::string>& tabName, int nb_person, int nbVille, char* separator)
 {
 	ofstream file("../../DataGenerated/RelaPerson.txt", ios::out | ios::trunc);
 	if (!file) {
@@ -19,20 +19,20 @@ void RelationnalGenerator::generatePerson(const std::vector<int>& tabAge, const 
 	}
 	int idVille = 0;
 	for (int i = 0; i < nb_person; i++) {
-		file << i << separator << tabName[i % tabName.size()].c_str() << separator << tabAge[i] << separator << idVille % NB_VILLE << endl;
+		file << i << separator << tabName[i % tabName.size()].c_str() << separator << idVille % nbVille << separator << tabAge[i] << endl;
 		idVille++;
 	}
 	file.close();
 }
 
-void RelationnalGenerator::generateCity(const std::vector<char*>& tabCity, char* separator)
+void RelationnalGenerator::generateCity(const std::vector<std::string>& tabCity, int nbVille, char* separator)
 {
 	ofstream file("../../DataGenerated/RelaCity.txt", ios::out | ios::trunc);
 	if (!file) {
 		cerr << "Error opening RelaCity.txt" << endl;
 		return;
 	}
-	for (int i = 0; i < NB_VILLE; i++) {
+	for (int i = 0; i < nbVille; i++) {
 		file << i << separator << tabCity[i] << endl;
 	}
 	file.close();

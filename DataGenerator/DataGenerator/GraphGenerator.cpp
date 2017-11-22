@@ -23,7 +23,7 @@ void GraphGenerator::generatePerson(const std::vector<int>& tabAge, const std::v
 	file.close();
 }
 
-void GraphGenerator::generateCity(const std::vector<char*>& tabCity, char* separator)
+void GraphGenerator::generateCity(const std::vector<std::string>& tabCity, char* separator)
 {
 	ofstream file("../../DataGenerated/GraphCity.txt", ios::out | ios::trunc);
 	if (!file) {
@@ -31,7 +31,7 @@ void GraphGenerator::generateCity(const std::vector<char*>& tabCity, char* separ
 		return;
 	}
 	for (int i = 0; i < NB_VILLE; i++) {
-		file << "{\"type\":\"node\", \"id\":" << i << "}" << separator << i << separator << tabCity[i % NB_VILLE] << endl;
+		file << "{\"type\":\"node\", \"id\":" << i << "}" << separator << i << separator << tabCity[i % tabCity.size()] << endl;
 	}
 	file.close();
 }
@@ -49,7 +49,7 @@ void GraphGenerator::generateIsFriend(int nb_person, char* separator)
 	file.close();
 }
 
-void GraphGenerator::generateLiveIn(int nb_person, char* separator)
+void GraphGenerator::generateLiveIn(int nb_person, int nbVille, char* separator)
 {
 	ofstream file("../../DataGenerated/GraphLiveIn.txt", ios::out | ios::trunc);
 	if (!file) {
@@ -58,7 +58,7 @@ void GraphGenerator::generateLiveIn(int nb_person, char* separator)
 	}
 	int idVille = 0;
 	for (int i = 0; i < nb_person; i++) {
-		file << "{\"type\":\"edge\", \"id\":" << i << "}" << separator << i << separator << idVille % NB_VILLE << endl;
+		file << "{\"type\":\"edge\", \"id\":" << i << "}" << separator << i << separator << idVille % nbVille << endl;
 		idVille++;
 	}
 	file.close();
