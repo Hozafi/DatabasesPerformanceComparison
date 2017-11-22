@@ -62,7 +62,7 @@ int main(int argn, char* argv[]) {
 	RelationnalGenerator::generateIsFriend(nb_person, separator);
 
 	GraphGenerator::generatePerson(tabAge,tabName, nb_person, separator);
-	GraphGenerator::generateCity(tabCity, separator);
+	GraphGenerator::generateCity(tabCity, nbVille, separator);
 	GraphGenerator::generateIsFriend(nb_person, separator);
 	GraphGenerator::generateLiveIn(nb_person, nbVille, separator);
 	

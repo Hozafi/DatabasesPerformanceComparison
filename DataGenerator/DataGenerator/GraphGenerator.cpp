@@ -23,15 +23,15 @@ void GraphGenerator::generatePerson(const std::vector<int>& tabAge, const std::v
 	file.close();
 }
 
-void GraphGenerator::generateCity(const std::vector<std::string>& tabCity, char* separator)
+void GraphGenerator::generateCity(const std::vector<std::string>& tabCity, int nbVille, char* separator)
 {
 	ofstream file("../../DataGenerated/GraphCity.txt", ios::out | ios::trunc);
 	if (!file) {
 		cerr << "Error opening GraphCity.txt" << endl;
 		return;
 	}
-	for (int i = 0; i < NB_VILLE; i++) {
-		file << "{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"CityNode\",\"id\":" << i << "}" << separator << i << separator << tabCity[i % tabCity.size()] << endl;
+	for (int i = 0; i < nbVille; i++) {
+		file << "{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"CityNode\",\"id\":" << i << "}" << separator << i << separator << tabCity[i] << endl;
 	}
 	file.close();
 }
