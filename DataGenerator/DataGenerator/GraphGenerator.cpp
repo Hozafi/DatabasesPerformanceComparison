@@ -18,7 +18,7 @@ void GraphGenerator::generatePerson(const std::vector<int>& tabAge, const std::v
 		return;
 	}
 	for (int i = 0; i < nb_person; i++) {
-		file << "{\"type\":\"node\", \"id\":" << i << "}" << separator << i << separator << tabName[i % tabName.size()].c_str() << separator << tabAge[i] << endl;
+		file << "{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << i << "}" << separator << i << separator << tabName[i % tabName.size()].c_str() << separator << tabAge[i] << endl;
 	}
 	file.close();
 }
@@ -31,7 +31,7 @@ void GraphGenerator::generateCity(const std::vector<std::string>& tabCity, char*
 		return;
 	}
 	for (int i = 0; i < NB_VILLE; i++) {
-		file << "{\"type\":\"node\", \"id\":" << i << "}" << separator << i << separator << tabCity[i % tabCity.size()] << endl;
+		file << "{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"CityNode\",\"id\":" << i << "}" << separator << i << separator << tabCity[i % tabCity.size()] << endl;
 	}
 	file.close();
 }
@@ -44,7 +44,9 @@ void GraphGenerator::generateIsFriend(int nb_person, char* separator)
 		return;
 	}
 	for (int i = 0; i < nb_person - 1; i++) {
-		file << "{\"type\":\"edge\", \"id\":" << i << "}" << separator << i << separator << i + 1 << endl;
+		file << "{\"type\":\"edge\",\"schema\":\"dbo\",\"table\":\"FriendWithEdge\",\"id\":" << i << "}" << separator << 
+			"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << i << "}" << separator << 
+			"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << i + 1 << "}" << endl;
 	}
 	file.close();
 }
@@ -58,7 +60,9 @@ void GraphGenerator::generateLiveIn(int nb_person, int nbVille, char* separator)
 	}
 	int idVille = 0;
 	for (int i = 0; i < nb_person; i++) {
-		file << "{\"type\":\"edge\", \"id\":" << i << "}" << separator << i << separator << idVille % nbVille << endl;
+		file << "{\"type\":\"edge\",\"schema\":\"dbo\",\"table\":\"LiveInEdge\",\"id\":" << i << "}" << separator <<
+			"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << i << "}" << separator <<
+			"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << idVille % nbVille << "}" << endl;
 		idVille++;
 	}
 	file.close();

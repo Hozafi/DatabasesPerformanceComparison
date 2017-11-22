@@ -47,9 +47,10 @@ int main(int argn, char* argv[]) {
 	}
 	// Push some city name in the tabtabCity.push_back("Paris");
 	while (!file.eof()) {
-		string tmpName;
-		getline(file, tmpName);
-		tabCity.push_back(tmpName);
+		string tmpCity;
+		getline(file, tmpCity);
+		tmpCity.resize(tmpCity.length() - 1);
+		tabCity.push_back(tmpCity);
 	}
 	// Create the Age of the different person
 	for (int i = 0; i < nb_person; i++) {

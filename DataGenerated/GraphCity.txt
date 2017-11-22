@@ -1,50 +1,50 @@
-{"type":"node", "id":0} | 0 |  L'Abergement-Clémenciat 
-{"type":"node", "id":1} | 1 |  L'Abergement-de-Varey 
-{"type":"node", "id":2} | 2 |  Amareins 
-{"type":"node", "id":3} | 3 |  Ambérieu-en-Bugey 
-{"type":"node", "id":4} | 4 |  Ambérieux-en-Dombes 
-{"type":"node", "id":5} | 5 |  Ambléon 
-{"type":"node", "id":6} | 6 |  Ambronay 
-{"type":"node", "id":7} | 7 |  Ambutrix 
-{"type":"node", "id":8} | 8 |  Andert-et-Condon 
-{"type":"node", "id":9} | 9 |  Anglefort 
-{"type":"node", "id":10} | 10 |  Apremont 
-{"type":"node", "id":11} | 11 |  Aranc 
-{"type":"node", "id":12} | 12 |  Arandas 
-{"type":"node", "id":13} | 13 |  Arbent 
-{"type":"node", "id":14} | 14 |  Arbignieu 
-{"type":"node", "id":15} | 15 |  Arbigny 
-{"type":"node", "id":16} | 16 |  Argis 
-{"type":"node", "id":17} | 17 |  Armix 
-{"type":"node", "id":18} | 18 |  Ars-sur-Formans 
-{"type":"node", "id":19} | 19 |  Artemare 
-{"type":"node", "id":20} | 20 |  Asnières-sur-Saône 
-{"type":"node", "id":21} | 21 |  Attignat 
-{"type":"node", "id":22} | 22 |  Bâgé-la-Ville 
-{"type":"node", "id":23} | 23 |  Bâgé-le-Châtel 
-{"type":"node", "id":24} | 24 |  Balan 
-{"type":"node", "id":25} | 25 |  Baneins 
-{"type":"node", "id":26} | 26 |  Beaupont 
-{"type":"node", "id":27} | 27 |  Bellignat 
-{"type":"node", "id":28} | 28 |  Béligneux 
-{"type":"node", "id":29} | 29 |  Bellegarde-sur-Valserine 
-{"type":"node", "id":30} | 30 |  Belley 
-{"type":"node", "id":31} | 31 |  Belleydoux 
-{"type":"node", "id":32} | 32 |  Bénonces 
-{"type":"node", "id":33} | 33 |  Bény 
-{"type":"node", "id":34} | 34 |  Béon 
-{"type":"node", "id":35} | 35 |  Béréziat 
-{"type":"node", "id":36} | 36 |  Bettant 
-{"type":"node", "id":37} | 37 |  Bey 
-{"type":"node", "id":38} | 38 |  Beynost 
-{"type":"node", "id":39} | 39 |  Billiat 
-{"type":"node", "id":40} | 40 |  Birieux 
-{"type":"node", "id":41} | 41 |  Biziat 
-{"type":"node", "id":42} | 42 |  Blyes 
-{"type":"node", "id":43} | 43 |  Bohas 
-{"type":"node", "id":44} | 44 |  La Boisse 
-{"type":"node", "id":45} | 45 |  Boissey 
-{"type":"node", "id":46} | 46 |  Bolozon 
-{"type":"node", "id":47} | 47 |  Bouligneux 
-{"type":"node", "id":48} | 48 |  Bourg-en-Bresse 
-{"type":"node", "id":49} | 49 |  Bourg-Saint-Christophe 
+{"type":"node","schema":"dbo","table":"CityNode","id":0} | 0 | L'Abergement-Clémenciat
+{"type":"node","schema":"dbo","table":"CityNode","id":1} | 1 | L'Abergement-de-Varey
+{"type":"node","schema":"dbo","table":"CityNode","id":2} | 2 | Amareins
+{"type":"node","schema":"dbo","table":"CityNode","id":3} | 3 | Ambérieu-en-Bugey
+{"type":"node","schema":"dbo","table":"CityNode","id":4} | 4 | Ambérieux-en-Dombes
+{"type":"node","schema":"dbo","table":"CityNode","id":5} | 5 | Ambléon
+{"type":"node","schema":"dbo","table":"CityNode","id":6} | 6 | Ambronay
+{"type":"node","schema":"dbo","table":"CityNode","id":7} | 7 | Ambutrix
+{"type":"node","schema":"dbo","table":"CityNode","id":8} | 8 | Andert-et-Condon
+{"type":"node","schema":"dbo","table":"CityNode","id":9} | 9 | Anglefort
+{"type":"node","schema":"dbo","table":"CityNode","id":10} | 10 | Apremont
+{"type":"node","schema":"dbo","table":"CityNode","id":11} | 11 | Aranc
+{"type":"node","schema":"dbo","table":"CityNode","id":12} | 12 | Arandas
+{"type":"node","schema":"dbo","table":"CityNode","id":13} | 13 | Arbent
+{"type":"node","schema":"dbo","table":"CityNode","id":14} | 14 | Arbignieu
+{"type":"node","schema":"dbo","table":"CityNode","id":15} | 15 | Arbigny
+{"type":"node","schema":"dbo","table":"CityNode","id":16} | 16 | Argis
+{"type":"node","schema":"dbo","table":"CityNode","id":17} | 17 | Armix
+{"type":"node","schema":"dbo","table":"CityNode","id":18} | 18 | Ars-sur-Formans
+{"type":"node","schema":"dbo","table":"CityNode","id":19} | 19 | Artemare
+{"type":"node","schema":"dbo","table":"CityNode","id":20} | 20 | Asnières-sur-Saône
+{"type":"node","schema":"dbo","table":"CityNode","id":21} | 21 | Attignat
+{"type":"node","schema":"dbo","table":"CityNode","id":22} | 22 | Bâgé-la-Ville
+{"type":"node","schema":"dbo","table":"CityNode","id":23} | 23 | Bâgé-le-Châtel
+{"type":"node","schema":"dbo","table":"CityNode","id":24} | 24 | Balan
+{"type":"node","schema":"dbo","table":"CityNode","id":25} | 25 | Baneins
+{"type":"node","schema":"dbo","table":"CityNode","id":26} | 26 | Beaupont
+{"type":"node","schema":"dbo","table":"CityNode","id":27} | 27 | Bellignat
+{"type":"node","schema":"dbo","table":"CityNode","id":28} | 28 | Béligneux
+{"type":"node","schema":"dbo","table":"CityNode","id":29} | 29 | Bellegarde-sur-Valserine
+{"type":"node","schema":"dbo","table":"CityNode","id":30} | 30 | Belley
+{"type":"node","schema":"dbo","table":"CityNode","id":31} | 31 | Belleydoux
+{"type":"node","schema":"dbo","table":"CityNode","id":32} | 32 | Bénonces
+{"type":"node","schema":"dbo","table":"CityNode","id":33} | 33 | Bény
+{"type":"node","schema":"dbo","table":"CityNode","id":34} | 34 | Béon
+{"type":"node","schema":"dbo","table":"CityNode","id":35} | 35 | Béréziat
+{"type":"node","schema":"dbo","table":"CityNode","id":36} | 36 | Bettant
+{"type":"node","schema":"dbo","table":"CityNode","id":37} | 37 | Bey
+{"type":"node","schema":"dbo","table":"CityNode","id":38} | 38 | Beynost
+{"type":"node","schema":"dbo","table":"CityNode","id":39} | 39 | Billiat
+{"type":"node","schema":"dbo","table":"CityNode","id":40} | 40 | Birieux
+{"type":"node","schema":"dbo","table":"CityNode","id":41} | 41 | Biziat
+{"type":"node","schema":"dbo","table":"CityNode","id":42} | 42 | Blyes
+{"type":"node","schema":"dbo","table":"CityNode","id":43} | 43 | Bohas
+{"type":"node","schema":"dbo","table":"CityNode","id":44} | 44 | La Boisse
+{"type":"node","schema":"dbo","table":"CityNode","id":45} | 45 | Boissey
+{"type":"node","schema":"dbo","table":"CityNode","id":46} | 46 | Bolozon
+{"type":"node","schema":"dbo","table":"CityNode","id":47} | 47 | Bouligneux
+{"type":"node","schema":"dbo","table":"CityNode","id":48} | 48 | Bourg-en-Bresse
+{"type":"node","schema":"dbo","table":"CityNode","id":49} | 49 | Bourg-Saint-Christophe
