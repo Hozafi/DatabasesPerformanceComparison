@@ -64,8 +64,7 @@ int main(int argn, char* argv[]) {
 			int random;
 			do {
 				random = rand() % nb_person;
-
-			} while (random == i && (std::find(tabTmp.begin(), tabTmp.end(), random) != tabTmp.end()));
+			} while (random == i || (std::find(tabTmp.begin(), tabTmp.end(), random) != tabTmp.end()));
 			tabTmp.push_back(random);
 		}
 		tabAmi.push_back(tabTmp);
