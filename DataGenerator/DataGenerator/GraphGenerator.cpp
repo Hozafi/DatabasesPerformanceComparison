@@ -44,7 +44,7 @@ void GraphGenerator::generateIsFriend(int nb_person, std::vector<std::vector<int
 		return;
 	}
 	int id = 0;
-	for (int i = 0; i < nb_person - 1; i++) {
+	for (int i = 0; i < nb_person; i++) {
 		for (int j = 0; j < 100; j++) {
 			file << "{\"type\":\"edge\",\"schema\":\"dbo\",\"table\":\"FriendWithEdge\",\"id\":" << id << "}" << separator <<
 				"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << i << "}" << separator <<

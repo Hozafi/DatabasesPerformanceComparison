@@ -45,7 +45,7 @@ void RelationnalGenerator::generateIsFriend(int nb_person, std::vector<std::vect
 		cerr << "Error opening RelaIsFriend.txt" << endl;
 		return;
 	}
-	for (int i = 0; i < nb_person - 1; i++) {
+	for (int i = 0; i < nb_person; i++) {
 		// Each person is friend with the next Person in the table
 		// There is only the last person who don't have any friend
 		for (int j = 0; j < 100; j++) {
