@@ -1,1000 +1,1000 @@
-0 | aaliyah | 0 | 45
-1 | aapeli | 1 | 46
-2 | aapo | 2 | 72
-3 | aaren | 3 | 42
-4 | aarne | 4 | 55
-5 | aarón | 5 | 50
-6 | aaron | 6 | 7
-7 | aatami | 7 | 94
-8 | aatto | 8 | 99
-9 | aatu | 9 | 94
-10 | abaddon | 10 | 100
-11 | abban | 11 | 48
-12 | 'abbas | 12 | 5
-13 | abbey | 13 | 78
-14 | abbie | 14 | 81
-15 | abby | 15 | 97
-16 | abd-al-aziz | 16 | 100
-17 | abd-allah | 17 | 82
-18 | abd-al-malik | 18 | 53
-19 | abd-al-qadir | 19 | 24
-20 | abd-al-rahman | 20 | 80
-21 | abdul | 21 | 85
-22 | abdul-aziz | 22 | 48
-23 | abdullah | 23 | 63
-24 | abdul-rahman | 24 | 72
-25 | abe | 25 | 47
-26 | abednego | 26 | 74
-27 | abegail | 27 | 56
-28 | abel | 28 | 83
-29 | abel | 29 | 2
-30 | abelone | 30 | 35
-31 | abena | 31 | 62
-32 | abeni | 32 | 93
-33 | abhay | 33 | 87
-34 | abiah | 34 | 53
-35 | abidan | 35 | 5
-36 | abidemi | 36 | 4
-37 | abiel | 37 | 2
-38 | abigail | 38 | 59
-39 | abigayle | 39 | 16
-40 | abihu | 40 | 80
-41 | abijah | 41 | 93
-42 | abilene | 42 | 84
-43 | abimael | 43 | 62
-44 | abiram | 44 | 20
-45 | abisai | 45 | 56
-46 | abishag | 46 | 79
-47 | abishai | 47 | 56
-48 | abital | 48 | 53
-49 | 'abla | 49 | 22
-50 | abner | 50 | 10
-51 | abraham | 51 | 53
-52 | abram | 52 | 64
-53 | absalom | 53 | 11
-54 | absolon | 54 | 97
-55 | acacia | 55 | 9
-56 | acacius | 56 | 91
-57 | acantha | 57 | 79
-58 | ace | 58 | 76
-59 | achaicus | 59 | 41
-60 | achan | 60 | 44
-61 | achieng | 61 | 26
-62 | achille | 62 | 27
-63 | achilles | 63 | 31
-64 | achim | 64 | 46
-65 | acke | 65 | 49
-66 | ada | 66 | 29
-67 | adah | 67 | 98
-68 | adair | 68 | 48
-69 | adalbert | 69 | 16
-70 | adalberto | 70 | 27
-71 | adalheid | 71 | 70
-72 | adalia | 72 | 55
-73 | adam | 73 | 8
-74 | adam | 74 | 94
-75 | adamina | 75 | 65
-76 | adamo | 76 | 46
-77 | adan | 77 | 10
-78 | adao | 78 | 95
-79 | adara | 79 | 24
-80 | addie | 80 | 60
-81 | addison | 81 | 40
-82 | addy | 82 | 74
-83 | adel | 83 | 12
-84 | adela | 84 | 21
-85 | adelaide | 85 | 84
-86 | adelaide | 86 | 54
-87 | adele | 87 | 7
-88 | adelheid | 88 | 97
-89 | adelia | 89 | 83
-90 | adelina | 90 | 11
-91 | adeline | 91 | 23
-92 | adelle | 92 | 73
-93 | adelmar | 93 | 20
-94 | adem | 94 | 41
-95 | aden | 95 | 93
-96 | adena | 96 | 79
-97 | adhara | 97 | 61
-98 | adhiambo | 98 | 76
-99 | adi | 99 | 17
-100 | adil | 0 | 93
-101 | adina | 1 | 57
-102 | adino | 2 | 83
-103 | adisa | 3 | 66
-104 | aditya | 4 | 49
-105 | adjoa | 5 | 90
-106 | adlai | 6 | 25
-107 | adolf | 7 | 60
-108 | adolfo | 8 | 100
-109 | adolph | 9 | 41
-110 | adolphe | 10 | 50
-111 | adolphus | 11 | 33
-112 | adonai | 12 | 10
-113 | adonia | 13 | 44
-114 | adonijah | 14 | 50
-115 | adonis | 15 | 37
-116 | adora | 16 | 40
-117 | adorinda | 17 | 3
-118 | adorjan | 18 | 15
-119 | adrasteia | 19 | 31
-120 | adrastos | 20 | 13
-121 | adria | 21 | 74
-122 | adriaan | 22 | 88
-123 | adrian | 23 | 61
-124 | adrian | 24 | 14
-125 | adriana | 25 | 2
-126 | adrianna | 26 | 2
-127 | adrianne | 27 | 59
-128 | adriano | 28 | 74
-129 | adrien | 29 | 6
-130 | adrienn | 30 | 66
-131 | adrienne | 31 | 71
-132 | adwoa | 32 | 4
-133 | aegle | 33 | 60
-134 | ælfwine | 34 | 43
-135 | aella | 35 | 81
-136 | ælred | 36 | 22
-137 | aemilia | 37 | 52
-138 | aeneas | 38 | 70
-139 | aengus | 39 | 95
-140 | aeolus | 40 | 21
-141 | aerone | 41 | 92
-142 | aeron | 42 | 39
-143 | aeronwen | 43 | 48
-144 | aeronwy | 44 | 6
-145 | aeschylus | 45 | 93
-146 | aeson | 46 | 41
-147 | aesop | 47 | 44
-148 | afanasi | 48 | 25
-149 | afanasy | 49 | 77
-150 | afanen | 50 | 16
-151 | afia | 51 | 27
-152 | afolabi | 52 | 68
-153 | afon | 53 | 25
-154 | afonso | 54 | 15
-155 | afra | 55 | 63
-156 | africa | 56 | 67
-157 | afua | 57 | 4
-158 | agafya | 58 | 49
-159 | agamemnon | 59 | 15
-160 | agape | 60 | 81
-161 | agapios | 61 | 93
-162 | agata | 62 | 68
-163 | agatha | 63 | 50
-164 | agathangelos | 64 | 65
-165 | agathe | 65 | 34
-166 | agathon | 66 | 100
-167 | agaue | 67 | 27
-168 | aggie | 68 | 69
-169 | aghavni | 69 | 94
-170 | agi | 70 | 80
-171 | aglaia | 71 | 38
-172 | aglaya | 72 | 3
-173 | aglea | 73 | 80
-174 | agnes | 74 | 74
-175 | agnes | 75 | 99
-176 | agnes | 76 | 15
-177 | agnese | 77 | 12
-178 | agnessa | 78 | 12
-179 | agneta | 79 | 33
-180 | agnethe | 80 | 4
-181 | agnieszka | 81 | 85
-182 | agostina | 82 | 42
-183 | agostinho | 83 | 2
-184 | agostino | 84 | 62
-185 | agoston | 85 | 67
-186 | agota | 86 | 90
-187 | agrafena | 87 | 53
-188 | agrippa | 88 | 15
-189 | agrippina | 89 | 27
-190 | agrona | 90 | 62
-191 | agueda | 91 | 4
-192 | agustín | 92 | 53
-193 | ah | 93 | 22
-194 | ahab | 94 | 73
-195 | aharon | 95 | 31
-196 | ahmad | 96 | 76
-197 | ahmed | 97 | 98
-198 | ahmet | 98 | 29
-199 | ahriman | 99 | 77
-200 | ahtahkakoop | 0 | 28
-201 | ahura mazda | 1 | 11
-202 | ahuva | 2 | 3
-203 | aie | 3 | 5
-204 | ai | 4 | 88
-205 | aias | 5 | 28
-206 | aida | 6 | 7
-207 | aidan | 7 | 15
-208 | aiden | 8 | 40
-209 | aigneis | 9 | 8
-210 | aikaterine | 10 | 53
-211 | ailbhe | 11 | 20
-212 | aileas | 12 | 89
-213 | aileen | 13 | 48
-214 | ailill | 14 | 53
-215 | ailín | 15 | 64
-216 | ailís | 16 | 27
-217 | ailpein | 17 | 89
-218 | ailsa | 18 | 75
-219 | aime | 19 | 7
-220 | aimee | 20 | 99
-221 | aimo | 21 | 51
-222 | aina | 22 | 2
-223 | aindrea | 23 | 6
-224 | aindreas | 24 | 46
-225 | aindriu | 25 | 80
-226 | aine | 26 | 41
-227 | aingeal | 27 | 34
-228 | aino | 28 | 92
-229 | ainsley | 29 | 77
-230 | ainslie | 30 | 10
-231 | aintzane | 31 | 5
-232 | aiolos | 32 | 29
-233 | 'aisha | 33 | 84
-234 | aislin | 34 | 15
-235 | aisling | 35 | 28
-236 | aislinn | 36 | 78
-237 | aithne | 37 | 33
-238 | aitor | 38 | 39
-239 | ajax | 39 | 57
-240 | ajeet | 40 | 59
-241 | ajit | 41 | 18
-242 | ajith | 42 | 86
-243 | akakios | 43 | 70
-244 | akamu | 44 | 43
-245 | akanksha | 45 | 61
-246 | akeem | 46 | 23
-247 | akemi | 47 | 21
-248 | akhil | 48 | 3
-249 | aki | 49 | 35
-250 | akiko | 50 | 93
-251 | akilah | 51 | 77
-252 | akilina | 52 | 8
-253 | akim | 53 | 91
-254 | akinyi | 54 | 39
-255 | akio | 55 | 97
-256 | akira | 56 | 51
-257 | akiva | 57 | 83
-258 | akoni | 58 | 21
-259 | akosua | 59 | 68
-260 | aksel | 60 | 58
-261 | aksinya | 61 | 71
-262 | aku | 62 | 40
-263 | akua | 63 | 52
-264 | akulina | 64 | 49
-265 | al | 65 | 88
-266 | alaba | 66 | 21
-267 | alain | 67 | 51
-268 | alaina | 68 | 87
-269 | alan | 69 | 67
-270 | alana | 70 | 81
-271 | alanis | 71 | 51
-272 | alanna | 72 | 46
-273 | alannah | 73 | 33
-274 | alannis | 74 | 27
-275 | alaois | 75 | 61
-276 | alaric | 76 | 87
-277 | alasdair | 77 | 61
-278 | alastair | 78 | 34
-279 | alastar | 79 | 45
-280 | alastríona | 80 | 29
-281 | alayna | 81 | 40
-282 | alba | 82 | 28
-283 | alban | 83 | 71
-284 | alberic | 84 | 87
-285 | albert | 85 | 40
-286 | alberta | 86 | 92
-287 | albertina | 87 | 21
-288 | albertine | 88 | 34
-289 | alberto | 89 | 100
-290 | albina | 90 | 92
-291 | albrecht | 91 | 51
-292 | alby | 92 | 34
-293 | alcaeus | 93 | 83
-294 | alcippe | 94 | 26
-295 | alcyone | 95 | 23
-296 | alden | 96 | 28
-297 | aldo | 97 | 20
-298 | aldous | 98 | 84
-299 | aldrick | 99 | 39
-300 | alea | 0 | 87
-301 | alease | 1 | 9
-302 | alec | 2 | 85
-303 | alechjo | 3 | 59
-304 | aled | 4 | 49
-305 | aleesha | 5 | 38
-306 | aleit | 6 | 82
-307 | alejandra | 7 | 23
-308 | alejandro | 8 | 25
-309 | alejo | 9 | 91
-310 | aleksandar | 10 | 17
-311 | aleksander | 11 | 40
-312 | aleksandr | 12 | 51
-313 | aleksandra | 13 | 64
-314 | aleksandrina | 14 | 29
-315 | aleksandro | 15 | 42
-316 | aleksanteri | 16 | 67
-317 | aleksei | 17 | 65
-318 | aleksi | 18 | 18
-319 | alene | 19 | 86
-320 | alenka | 20 | 25
-321 | ales | 21 | 95
-322 | alesha | 22 | 62
-323 | alessa | 23 | 21
-324 | alessandra | 24 | 36
-325 | alessandro | 25 | 62
-326 | alessia | 26 | 52
-327 | alessio | 27 | 21
-328 | aleta | 28 | 14
-329 | aletha | 29 | 35
-330 | alethea | 30 | 33
-331 | alex | 31 | 2
-332 | alexa | 32 | 4
-333 | alexander | 33 | 11
-334 | alexandr | 34 | 88
-335 | alexandra | 35 | 35
-336 | alexandre | 36 | 54
-337 | alexandrea | 37 | 5
-338 | alexandria | 38 | 93
-339 | alexandrie | 39 | 66
-340 | alexandrina | 40 | 17
-341 | alexandros | 41 | 68
-342 | alexandru | 42 | 13
-343 | alexei | 43 | 10
-344 | alexej | 44 | 47
-345 | alexia | 45 | 24
-346 | alexina | 46 | 99
-347 | alexise | 47 | 24
-348 | alexis | 48 | 99
-349 | alexius | 49 | 71
-350 | alexus | 50 | 59
-351 | alf | 51 | 100
-352 | alfeo | 52 | 93
-353 | alfhild | 53 | 51
-354 | alfons | 54 | 32
-355 | alfonsina | 55 | 96
-356 | alfonso | 56 | 64
-357 | alfred | 57 | 95
-358 | alfred | 58 | 47
-359 | alfreda | 59 | 17
-360 | alfredo | 60 | 86
-361 | alfsigr | 61 | 78
-362 | algar | 62 | 54
-363 | alger | 63 | 1
-364 | algernon | 64 | 12
-365 | ali | 65 | 35
-366 | alia | 66 | 33
-367 | aliah | 67 | 41
-368 | alice | 68 | 48
-369 | alicia | 69 | 97
-370 | alida | 70 | 92
-371 | aliisa | 71 | 52
-372 | alin | 72 | 7
-373 | alinae | 73 | 16
-374 | alina | 74 | 4
-375 | aline | 75 | 59
-376 | alis | 76 | 2
-377 | alisa | 77 | 96
-378 | alisha | 78 | 79
-379 | alisia | 79 | 2
-380 | alison | 80 | 86
-381 | alissa | 81 | 6
-382 | alistair | 82 | 66
-383 | alister | 83 | 3
-384 | alisya | 84 | 10
-385 | alix | 85 | 13
-386 | aliyah | 86 | 33
-387 | aliz | 87 | 46
-388 | aliza | 88 | 74
-389 | allan | 89 | 43
-390 | allannah | 90 | 54
-391 | allegra | 91 | 13
-392 | allegria | 92 | 98
-393 | allen | 93 | 20
-394 | allie | 94 | 33
-395 | allison | 95 | 13
-396 | allon | 96 | 45
-397 | ally | 97 | 78
-398 | allycia | 98 | 76
-399 | allyn | 99 | 96
-400 | allyson | 0 | 18
-401 | alma | 1 | 70
-402 | almas | 2 | 37
-403 | almira | 3 | 56
-404 | almudena | 4 | 90
-405 | alodia | 5 | 34
-406 | alois | 6 | 56
-407 | aloisia | 7 | 87
-408 | aloisio | 8 | 3
-409 | alojz | 9 | 75
-410 | alon | 10 | 27
-411 | alondra | 11 | 13
-412 | alonso | 12 | 85
-413 | alonzo | 13 | 89
-414 | aloysius | 14 | 31
-415 | alp | 15 | 36
-416 | alpertti | 16 | 84
-417 | alpha | 17 | 13
-418 | alphaeus | 18 | 89
-419 | alphonse | 19 | 54
-420 | alphonsine | 20 | 5
-421 | alphonso | 21 | 41
-422 | alphonsus | 22 | 89
-423 | alphonzo | 23 | 44
-424 | alpin | 24 | 4
-425 | alta | 25 | 86
-426 | altan | 26 | 78
-427 | alte | 27 | 60
-428 | alter | 28 | 49
-429 | althea | 29 | 19
-430 | alton | 30 | 85
-431 | aludra | 31 | 24
-432 | alun | 32 | 93
-433 | alva | 33 | 69
-434 | alvah | 34 | 86
-435 | alvar | 35 | 1
-436 | alvaro | 36 | 87
-437 | alvena | 37 | 59
-438 | alvilda | 38 | 77
-439 | alvin | 39 | 31
-440 | alvina | 40 | 40
-441 | alvis | 41 | 86
-442 | alwilda | 42 | 5
-443 | alwyn | 43 | 35
-444 | alya | 44 | 40
-445 | alyce | 45 | 16
-446 | alyona | 46 | 31
-447 | alys | 47 | 65
-448 | alysha | 48 | 94
-449 | alyson | 49 | 74
-450 | alyssa | 50 | 89
-451 | alyssia | 51 | 84
-452 | alyusha | 52 | 86
-453 | alyx | 53 | 66
-454 | alzbeta | 54 | 85
-455 | ama | 55 | 42
-456 | amabel | 56 | 97
-457 | amada | 57 | 96
-458 | amadeo | 58 | 63
-459 | amadeus | 59 | 20
-460 | amadie | 60 | 97
-461 | amadi | 61 | 3
-462 | amale | 62 | 73
-463 | amal | 63 | 76
-464 | amala | 64 | 1
-465 | amalia | 65 | 98
-466 | amalia | 66 | 22
-467 | amalric | 67 | 29
-468 | amalthea | 68 | 66
-469 | amanda | 69 | 6
-470 | amandine | 70 | 85
-471 | amando | 71 | 53
-472 | amani | 72 | 71
-473 | amar | 73 | 41
-474 | amara | 74 | 33
-475 | amaranta | 75 | 38
-476 | amarante | 76 | 15
-477 | amardad | 77 | 25
-478 | amariah | 78 | 17
-479 | amaryllis | 79 | 31
-480 | amaterasu | 80 | 54
-481 | amato | 81 | 44
-482 | amaury | 82 | 44
-483 | amaya | 83 | 51
-484 | amber | 84 | 65
-485 | ambra | 85 | 34
-486 | ambre | 86 | 16
-487 | ambrogino | 87 | 6
-488 | ambrogio | 88 | 69
-489 | ambroise | 89 | 57
-490 | ambrose | 90 | 22
-491 | ambrosia | 91 | 11
-492 | ambrosine | 92 | 44
-493 | ambrosio | 93 | 89
-494 | ambrus | 94 | 32
-495 | amedea | 95 | 42
-496 | amedee | 96 | 78
-497 | amedeo | 97 | 48
-498 | amedeus | 98 | 26
-499 | amelia | 99 | 63
-500 | amelia | 0 | 87
-501 | amelie | 1 | 96
-502 | amen | 2 | 78
-503 | amenhotep | 3 | 87
-504 | america | 4 | 94
-505 | americo | 5 | 43
-506 | amerigo | 6 | 57
-507 | amethyst | 7 | 33
-508 | amhlaidh | 8 | 90
-509 | amhlaoibh | 9 | 21
-510 | ami | 10 | 17
-511 | amias | 11 | 3
-512 | amice | 12 | 82
-513 | amie | 13 | 64
-514 | amika | 14 | 98
-515 | amilcar | 15 | 21
-516 | amilia | 16 | 74
-517 | amin | 17 | 36
-518 | amina | 18 | 69
-519 | aminda | 19 | 2
-520 | aminta | 20 | 51
-521 | amire | 21 | 34
-522 | amir | 22 | 50
-523 | amira | 23 | 43
-524 | amita | 24 | 68
-525 | amittai | 25 | 71
-526 | amity | 26 | 28
-527 | ammiel | 27 | 5
-528 | ammon | 28 | 55
-529 | amon | 29 | 72
-530 | amos | 30 | 1
-531 | amparo | 31 | 75
-532 | amrit | 32 | 26
-533 | amrita | 33 | 20
-534 | amy | 34 | 68
-535 | amyas | 35 | 63
-536 | amynta | 36 | 7
-537 | an | 37 | 84
-538 | ana | 38 | 23
-539 | anacleto | 39 | 83
-540 | anacletus | 40 | 36
-541 | anahid | 41 | 59
-542 | anahita | 42 | 40
-543 | anais | 43 | 47
-544 | anaitis | 44 | 31
-545 | anakin | 45 | 62
-546 | anakoni | 46 | 55
-547 | anane | 47 | 73
-548 | anan | 48 | 1
-549 | anand | 49 | 69
-550 | ananda | 50 | 9
-551 | anani | 51 | 93
-552 | ananias | 52 | 81
-553 | ananta | 53 | 82
-554 | ananth | 54 | 72
-555 | anantha | 55 | 35
-556 | anargyros | 56 | 95
-557 | anaru | 57 | 53
-558 | anas | 58 | 43
-559 | anass | 59 | 49
-560 | anastacia | 60 | 9
-561 | anastas | 61 | 42
-562 | anastasia | 62 | 51
-563 | anastasie | 63 | 49
-564 | anastasio | 64 | 79
-565 | anastasios | 65 | 47
-566 | anastasius | 66 | 73
-567 | anasztaz | 67 | 79
-568 | anasztazia | 68 | 46
-569 | anat | 69 | 53
-570 | anathe | 70 | 98
-571 | anath | 71 | 34
-572 | anatole | 72 | 10
-573 | anatoli | 73 | 92
-574 | anatolius | 74 | 5
-575 | anatoly | 75 | 65
-576 | anatu | 76 | 92
-577 | anaxagoras | 77 | 57
-578 | anca | 78 | 48
-579 | anchjo | 79 | 99
-580 | andela | 80 | 85
-581 | ander | 81 | 72
-582 | anders | 82 | 14
-583 | anderson | 83 | 76
-584 | andor | 84 | 25
-585 | andra | 85 | 82
-586 | andras | 86 | 71
-587 | andras | 87 | 54
-588 | andraste | 88 | 10
-589 | andre | 89 | 49
-590 | andreae | 90 | 36
-591 | andrea | 91 | 59
-592 | andreas | 92 | 13
-593 | andree | 93 | 25
-594 | andreea | 94 | 4
-595 | andrei | 95 | 25
-596 | andreia | 96 | 61
-597 | andrej | 97 | 89
-598 | andreja | 98 | 91
-599 | andres | 99 | 29
-600 | andreu | 0 | 17
-601 | andrew | 1 | 22
-602 | andriana | 2 | 19
-603 | andries | 3 | 81
-604 | andrija | 4 | 52
-605 | andrina | 5 | 87
-606 | andris | 6 | 44
-607 | andriy | 7 | 55
-608 | andro | 8 | 27
-609 | androcles | 9 | 26
-610 | andromache | 10 | 36
-611 | andromeda | 11 | 47
-612 | andronikos | 12 | 19
-613 | andrzej | 13 | 90
-614 | andy | 14 | 35
-615 | ane | 15 | 45
-616 | aneirin | 16 | 92
-617 | anelie | 17 | 6
-618 | anemone | 18 | 95
-619 | aneurin | 19 | 22
-620 | anfisa | 20 | 81
-621 | angel | 21 | 40
-622 | angela | 22 | 7
-623 | angela | 23 | 49
-624 | angele | 24 | 81
-625 | angelia | 25 | 9
-626 | angelica | 26 | 85
-627 | angelika | 27 | 19
-628 | angelina | 28 | 45
-629 | angeline | 29 | 25
-630 | angelique | 30 | 2
-631 | angelita | 31 | 75
-632 | angelle | 32 | 94
-633 | angelo | 33 | 58
-634 | angelos | 34 | 77
-635 | angerona | 35 | 32
-636 | angharad | 36 | 26
-637 | angie | 37 | 50
-638 | angus | 38 | 98
-639 | angyalka | 39 | 83
-640 | ania | 40 | 98
-641 | anibal | 41 | 4
-642 | anica | 42 | 76
-643 | anicetus | 43 | 73
-644 | aniela | 44 | 51
-645 | anika | 45 | 10
-646 | aniketos | 46 | 8
-647 | anikó | 47 | 93
-648 | animae | 48 | 26
-649 | anima | 49 | 13
-650 | aniruddha | 50 | 53
-651 | anisa | 51 | 74
-652 | anise | 52 | 64
-653 | anisim | 53 | 20
-654 | anita | 54 | 9
-655 | anja | 55 | 100
-656 | anjali | 56 | 57
-657 | anjelica | 57 | 8
-658 | anka | 58 | 81
-659 | anke | 59 | 99
-660 | ankur | 60 | 51
-661 | ann | 61 | 79
-662 | anna | 62 | 24
-663 | annabel | 63 | 76
-664 | annabella | 64 | 23
-665 | annabelle | 65 | 18
-666 | annalisa | 66 | 60
-667 | annas | 67 | 47
-668 | anne | 68 | 80
-669 | anneka | 69 | 25
-670 | anneke | 70 | 54
-671 | anneli | 71 | 80
-672 | annelie | 72 | 7
-673 | anneliese | 73 | 84
-674 | annelise | 74 | 51
-675 | annemarie | 75 | 22
-676 | annetta | 76 | 13
-677 | annette | 77 | 93
-678 | annice | 78 | 74
-679 | annick | 79 | 80
-680 | annie | 80 | 6
-681 | anniina | 81 | 55
-682 | annika | 82 | 12
-683 | annikki | 83 | 90
-684 | annis | 84 | 66
-685 | annmarie | 85 | 89
-686 | annunciata | 86 | 97
-687 | annunziata | 87 | 92
-688 | annuska | 88 | 99
-689 | anona | 89 | 23
-690 | anouk | 90 | 5
-691 | anoush | 91 | 50
-692 | anouska | 92 | 91
-693 | anraí | 93 | 17
-694 | ansel | 94 | 27
-695 | anselm | 95 | 92
-696 | anselma | 96 | 86
-697 | anselme | 97 | 81
-698 | anselmo | 98 | 20
-699 | ansgar | 99 | 34
-700 | anshel | 0 | 49
-701 | anson | 1 | 1
-702 | antal | 2 | 44
-703 | antanas | 3 | 74
-704 | ante | 4 | 88
-705 | antero | 5 | 14
-706 | anthea | 6 | 37
-707 | anthony | 7 | 16
-708 | antigone | 8 | 89
-709 | antigonus | 9 | 39
-710 | antiope | 10 | 92
-711 | antipater | 11 | 99
-712 | antje | 12 | 50
-713 | anto | 13 | 9
-714 | antoine | 14 | 4
-715 | antoinette | 15 | 38
-716 | anton | 16 | 85
-717 | antonella | 17 | 55
-718 | antonello | 18 | 44
-719 | antonette | 19 | 6
-720 | antoni | 20 | 89
-721 | antonia | 21 | 52
-722 | antonie | 22 | 100
-723 | antonietta | 23 | 66
-724 | antonija | 24 | 24
-725 | antonina | 25 | 8
-726 | antonino | 26 | 86
-727 | antonio | 27 | 78
-728 | antonius | 28 | 32
-729 | antono | 29 | 20
-730 | antony | 30 | 2
-731 | antti | 31 | 49
-732 | antun | 32 | 54
-733 | antwan | 33 | 70
-734 | anubis | 34 | 13
-735 | anunciación | 35 | 61
-736 | anupam | 36 | 13
-737 | anushka | 37 | 65
-738 | anwar | 38 | 74
-739 | anwen | 39 | 96
-740 | anwer | 40 | 86
-741 | anya | 41 | 55
-742 | aodh | 42 | 27
-743 | aodhan | 43 | 72
-744 | aoibheann | 44 | 8
-745 | aoibhín | 45 | 75
-746 | aoide | 46 | 53
-747 | aoife | 47 | 98
-748 | aonghas | 48 | 31
-749 | aonghus | 49 | 97
-750 | aphra | 50 | 64
-751 | aphrodisia | 51 | 84
-752 | aphrodisios | 52 | 89
-753 | aphrodite | 53 | 11
-754 | apikalia | 54 | 34
-755 | apolinar | 55 | 32
-756 | apollinaire | 56 | 36
-757 | apollinaris | 57 | 31
-758 | apollinariya | 58 | 26
-759 | apolline | 59 | 28
-760 | apollo | 60 | 84
-761 | apollodoros | 61 | 63
-762 | apollonia | 62 | 45
-763 | apollonios | 63 | 64
-764 | apolonija | 64 | 4
-765 | apostolis | 65 | 67
-766 | apostolos | 66 | 12
-767 | apphia | 67 | 69
-768 | appius | 68 | 96
-769 | april | 69 | 69
-770 | aquila | 70 | 99
-771 | arabella | 71 | 83
-772 | araceli | 72 | 98
-773 | aracelis | 73 | 25
-774 | aracely | 74 | 89
-775 | arachne | 75 | 56
-776 | aragorn | 76 | 37
-777 | araminta | 77 | 76
-778 | aran | 78 | 84
-779 | aranka | 79 | 2
-780 | aranrhod | 80 | 9
-781 | arantxa | 81 | 3
-782 | aras | 82 | 87
-783 | arata | 83 | 3
-784 | aravinda | 84 | 25
-785 | arcadia | 85 | 44
-786 | arcangelo | 86 | 39
-787 | arcelia | 87 | 45
-788 | archelaus | 88 | 25
-789 | archibald | 89 | 40
-790 | archie | 90 | 46
-791 | archimedes | 91 | 97
-792 | archippos | 92 | 68
-793 | ardal | 93 | 61
-794 | ardashir | 94 | 18
-795 | arden | 95 | 35
-796 | ardghal | 96 | 92
-797 | arduino | 97 | 1
-798 | areli | 98 | 77
-799 | ares | 99 | 22
-800 | aretha | 0 | 12
-801 | arethusa | 1 | 47
-802 | arevig | 2 | 71
-803 | argus | 3 | 15
-804 | argyris | 4 | 99
-805 | argyros | 5 | 38
-806 | arie | 6 | 72
-807 | ari | 7 | 8
-808 | aria | 8 | 65
-809 | ariadne | 9 | 93
-810 | ariana | 10 | 8
-811 | ariane | 11 | 27
-812 | arianna | 12 | 39
-813 | arianne | 13 | 70
-814 | arianrhod | 14 | 17
-815 | aric | 15 | 8
-816 | ariel | 16 | 94
-817 | ariella | 17 | 82
-818 | arielle | 18 | 12
-819 | arienne | 19 | 47
-820 | aries | 20 | 16
-821 | arik | 21 | 59
-822 | arina | 22 | 26
-823 | arisha | 23 | 5
-824 | arista | 24 | 74
-825 | aristide | 25 | 58
-826 | aristides | 26 | 16
-827 | aristocles | 27 | 98
-828 | aristodemos | 28 | 33
-829 | aristomache | 29 | 87
-830 | ariston | 30 | 84
-831 | aristophanes | 31 | 48
-832 | aristotle | 32 | 44
-833 | arisu | 33 | 11
-834 | arisztid | 34 | 82
-835 | arjan | 35 | 14
-836 | arjun | 36 | 58
-837 | arjuna | 37 | 58
-838 | arkadi | 38 | 8
-839 | arkadios | 39 | 47
-840 | arkady | 40 | 52
-841 | arkell | 41 | 97
-842 | arleen | 42 | 37
-843 | arlen | 43 | 35
-844 | arlene | 44 | 60
-845 | arlette | 45 | 34
-846 | arlie | 46 | 68
-847 | arline | 47 | 6
-848 | armand | 48 | 63
-849 | armando | 49 | 49
-850 | armel | 50 | 36
-851 | armelle | 51 | 68
-852 | armin | 52 | 49
-853 | armo | 53 | 57
-854 | arn | 54 | 22
-855 | arnaldo | 55 | 41
-856 | arnau | 56 | 67
-857 | arnaud | 57 | 87
-858 | arnaude | 58 | 63
-859 | arndt | 59 | 6
-860 | arnee | 60 | 62
-861 | arne | 61 | 82
-862 | arnie | 62 | 58
-863 | arnold | 63 | 71
-864 | aroha | 64 | 13
-865 | aroldo | 65 | 96
-866 | aron | 66 | 85
-867 | aron | 67 | 46
-868 | arpad | 68 | 90
-869 | arrigo | 69 | 88
-870 | arron | 70 | 43
-871 | arsen | 71 | 60
-872 | arseni | 72 | 97
-873 | arsenios | 73 | 85
-874 | art | 74 | 76
-875 | artair | 75 | 3
-876 | artemidoros | 76 | 2
-877 | artemis | 77 | 70
-878 | artemisia | 78 | 6
-879 | artemisios | 79 | 36
-880 | arthur | 80 | 38
-881 | arttu | 81 | 26
-882 | artturi | 82 | 63
-883 | artur | 83 | 18
-884 | artur | 84 | 51
-885 | arturo | 85 | 42
-886 | arundhati | 86 | 71
-887 | arvel | 87 | 23
-888 | arvid | 88 | 83
-889 | arvo | 89 | 40
-890 | arwen | 90 | 79
-891 | aryana | 91 | 93
-892 | arzu | 92 | 30
-893 | åsa | 93 | 50
-894 | asa | 94 | 30
-895 | as'ad | 95 | 79
-896 | asad | 96 | 71
-897 | asaf | 97 | 27
-898 | asaph | 98 | 59
-899 | asbjorn | 99 | 97
-900 | asdís | 0 | 69
-901 | asdrubal | 1 | 41
-902 | aseem | 2 | 35
-903 | asenath | 3 | 33
-904 | ash | 4 | 2
-905 | asha | 5 | 9
-906 | ashanti | 6 | 24
-907 | asher | 7 | 92
-908 | asherah | 8 | 43
-909 | ashlee | 9 | 63
-910 | ashleigh | 10 | 34
-911 | ashley | 11 | 72
-912 | ashlie | 12 | 89
-913 | ashling | 13 | 17
-914 | ashlyn | 14 | 37
-915 | ashlynn | 15 | 23
-916 | ashok | 16 | 72
-917 | ashoka | 17 | 61
-918 | ashtad | 18 | 84
-919 | ashton | 19 | 68
-920 | ashtoreth | 20 | 90
-921 | asia | 21 | 64
-922 | asim | 22 | 9
-923 | asklepiades | 23 | 44
-924 | asklepios | 24 | 46
-925 | aslaug | 25 | 94
-926 | asli | 26 | 12
-927 | aslog | 27 | 96
-928 | asløg | 28 | 45
-929 | asma | 29 | 88
-930 | aspasia | 30 | 12
-931 | aspen | 31 | 2
-932 | assumpció | 32 | 17
-933 | assumpta | 33 | 1
-934 | assunta | 34 | 87
-935 | asta | 35 | 17
-936 | astaroth | 36 | 5
-937 | astarte | 37 | 80
-938 | astor | 38 | 42
-939 | astra | 39 | 40
-940 | astraea | 40 | 84
-941 | astrid | 41 | 72
-942 | astrithr | 42 | 5
-943 | astrophel | 43 | 53
-944 | asunción | 44 | 61
-945 | asya | 45 | 85
-946 | ata | 46 | 63
-947 | atalanta | 47 | 90
-948 | atallah | 48 | 78
-949 | atara | 49 | 2
-950 | atarah | 50 | 90
-951 | ataullah | 51 | 28
-952 | atefeh | 52 | 27
-953 | athanas | 53 | 100
-954 | athanasia | 54 | 64
-955 | athanasios | 55 | 92
-956 | athanasius | 56 | 70
-957 | athelstan | 57 | 26
-958 | athena | 58 | 97
-959 | athenias | 59 | 43
-960 | atieno | 60 | 29
-961 | atílio | 61 | 54
-962 | atilio | 62 | 81
-963 | atiya | 63 | 40
-964 | atlas | 64 | 79
-965 | atticus | 65 | 59
-966 | attila | 66 | 80
-967 | attilio | 67 | 28
-968 | auberon | 68 | 15
-969 | aubree | 69 | 30
-970 | aubrey | 70 | 52
-971 | aude | 71 | 9
-972 | audie | 72 | 13
-973 | audley | 73 | 94
-974 | audrae | 74 | 14
-975 | audra | 75 | 15
-976 | audrea | 76 | 2
-977 | audrey | 77 | 83
-978 | auguste | 78 | 77
-979 | august | 79 | 11
-980 | augusta | 80 | 90
-981 | auguste | 81 | 31
-982 | augustijn | 82 | 19
-983 | augustin | 83 | 88
-984 | augustine | 84 | 40
-985 | augusto | 85 | 8
-986 | augusts | 86 | 12
-987 | augustus | 87 | 84
-988 | aukusti | 88 | 82
-989 | aulay | 89 | 100
-990 | aulus | 90 | 84
-991 | aune | 91 | 6
-992 | aura | 92 | 89
-993 | aurangzeb | 93 | 53
-994 | aurel | 94 | 96
-995 | aurele | 95 | 45
-996 | aurelia | 96 | 87
-997 | aureliano | 97 | 51
-998 | aurelie | 98 | 37
-999 | aurelien | 99 | 82
+0|aaliyah|0|25
+1|aapeli|1|17
+2|aapo|2|43
+3|aaren|3|77
+4|aarne|4|36
+5|aarón|5|32
+6|aaron|6|72
+7|aatami|7|83
+8|aatto|8|47
+9|aatu|9|15
+10|abaddon|10|56
+11|abban|11|46
+12|'abbas|12|25
+13|abbey|13|74
+14|abbie|14|21
+15|abby|15|53
+16|abd-al-aziz|16|25
+17|abd-allah|17|9
+18|abd-al-malik|18|99
+19|abd-al-qadir|19|86
+20|abd-al-rahman|20|10
+21|abdul|21|33
+22|abdul-aziz|22|20
+23|abdullah|23|73
+24|abdul-rahman|24|38
+25|abe|25|13
+26|abednego|26|84
+27|abegail|27|28
+28|abel|28|64
+29|abel|29|55
+30|abelone|30|57
+31|abena|31|30
+32|abeni|32|2
+33|abhay|33|31
+34|abiah|34|28
+35|abidan|35|56
+36|abidemi|36|58
+37|abiel|37|83
+38|abigail|38|93
+39|abigayle|39|69
+40|abihu|40|63
+41|abijah|41|72
+42|abilene|42|95
+43|abimael|43|9
+44|abiram|44|9
+45|abisai|45|84
+46|abishag|46|79
+47|abishai|47|80
+48|abital|48|17
+49|'abla|49|20
+50|abner|50|13
+51|abraham|51|88
+52|abram|52|27
+53|absalom|53|8
+54|absolon|54|47
+55|acacia|55|88
+56|acacius|56|29
+57|acantha|57|12
+58|ace|58|82
+59|achaicus|59|19
+60|achan|60|21
+61|achieng|61|73
+62|achille|62|18
+63|achilles|63|64
+64|achim|64|18
+65|acke|65|73
+66|ada|66|42
+67|adah|67|23
+68|adair|68|35
+69|adalbert|69|51
+70|adalberto|70|88
+71|adalheid|71|36
+72|adalia|72|87
+73|adam|73|75
+74|adam|74|10
+75|adamina|75|34
+76|adamo|76|16
+77|adan|77|8
+78|adao|78|57
+79|adara|79|67
+80|addie|80|75
+81|addison|81|35
+82|addy|82|72
+83|adel|83|26
+84|adela|84|3
+85|adelaide|85|51
+86|adelaide|86|68
+87|adele|87|17
+88|adelheid|88|81
+89|adelia|89|33
+90|adelina|90|79
+91|adeline|91|24
+92|adelle|92|92
+93|adelmar|93|94
+94|adem|94|79
+95|aden|95|82
+96|adena|96|4
+97|adhara|97|34
+98|adhiambo|98|97
+99|adi|99|94
+100|adil|0|13
+101|adina|1|23
+102|adino|2|45
+103|adisa|3|49
+104|aditya|4|25
+105|adjoa|5|3
+106|adlai|6|92
+107|adolf|7|2
+108|adolfo|8|57
+109|adolph|9|67
+110|adolphe|10|15
+111|adolphus|11|53
+112|adonai|12|67
+113|adonia|13|40
+114|adonijah|14|37
+115|adonis|15|72
+116|adora|16|76
+117|adorinda|17|6
+118|adorjan|18|80
+119|adrasteia|19|71
+120|adrastos|20|50
+121|adria|21|95
+122|adriaan|22|36
+123|adrian|23|32
+124|adrian|24|64
+125|adriana|25|41
+126|adrianna|26|57
+127|adrianne|27|58
+128|adriano|28|65
+129|adrien|29|99
+130|adrienn|30|37
+131|adrienne|31|97
+132|adwoa|32|90
+133|aegle|33|100
+134|ælfwine|34|97
+135|aella|35|98
+136|ælred|36|83
+137|aemilia|37|57
+138|aeneas|38|61
+139|aengus|39|11
+140|aeolus|40|31
+141|aerone|41|88
+142|aeron|42|61
+143|aeronwen|43|14
+144|aeronwy|44|67
+145|aeschylus|45|82
+146|aeson|46|31
+147|aesop|47|14
+148|afanasi|48|4
+149|afanasy|49|91
+150|afanen|50|18
+151|afia|51|94
+152|afolabi|52|96
+153|afon|53|14
+154|afonso|54|31
+155|afra|55|81
+156|africa|56|47
+157|afua|57|14
+158|agafya|58|78
+159|agamemnon|59|98
+160|agape|60|74
+161|agapios|61|39
+162|agata|62|67
+163|agatha|63|49
+164|agathangelos|64|15
+165|agathe|65|18
+166|agathon|66|87
+167|agaue|67|80
+168|aggie|68|74
+169|aghavni|69|28
+170|agi|70|65
+171|aglaia|71|75
+172|aglaya|72|91
+173|aglea|73|76
+174|agnes|74|12
+175|agnes|75|86
+176|agnes|76|46
+177|agnese|77|63
+178|agnessa|78|7
+179|agneta|79|93
+180|agnethe|80|64
+181|agnieszka|81|63
+182|agostina|82|66
+183|agostinho|83|94
+184|agostino|84|46
+185|agoston|85|96
+186|agota|86|82
+187|agrafena|87|61
+188|agrippa|88|3
+189|agrippina|89|86
+190|agrona|90|84
+191|agueda|91|40
+192|agustín|92|36
+193|ah|93|19
+194|ahab|94|50
+195|aharon|95|44
+196|ahmad|96|28
+197|ahmed|97|24
+198|ahmet|98|3
+199|ahriman|99|88
+200|ahtahkakoop|0|78
+201|ahura mazda|1|1
+202|ahuva|2|49
+203|aie|3|88
+204|ai|4|41
+205|aias|5|38
+206|aida|6|63
+207|aidan|7|77
+208|aiden|8|15
+209|aigneis|9|44
+210|aikaterine|10|7
+211|ailbhe|11|59
+212|aileas|12|87
+213|aileen|13|25
+214|ailill|14|52
+215|ailín|15|83
+216|ailís|16|1
+217|ailpein|17|98
+218|ailsa|18|61
+219|aime|19|38
+220|aimee|20|81
+221|aimo|21|5
+222|aina|22|26
+223|aindrea|23|90
+224|aindreas|24|34
+225|aindriu|25|62
+226|aine|26|15
+227|aingeal|27|27
+228|aino|28|52
+229|ainsley|29|35
+230|ainslie|30|46
+231|aintzane|31|45
+232|aiolos|32|78
+233|'aisha|33|16
+234|aislin|34|16
+235|aisling|35|64
+236|aislinn|36|73
+237|aithne|37|28
+238|aitor|38|23
+239|ajax|39|55
+240|ajeet|40|55
+241|ajit|41|72
+242|ajith|42|9
+243|akakios|43|49
+244|akamu|44|59
+245|akanksha|45|79
+246|akeem|46|81
+247|akemi|47|33
+248|akhil|48|61
+249|aki|49|43
+250|akiko|50|34
+251|akilah|51|2
+252|akilina|52|80
+253|akim|53|22
+254|akinyi|54|1
+255|akio|55|82
+256|akira|56|83
+257|akiva|57|13
+258|akoni|58|48
+259|akosua|59|90
+260|aksel|60|65
+261|aksinya|61|46
+262|aku|62|59
+263|akua|63|42
+264|akulina|64|28
+265|al|65|36
+266|alaba|66|98
+267|alain|67|25
+268|alaina|68|99
+269|alan|69|99
+270|alana|70|75
+271|alanis|71|24
+272|alanna|72|18
+273|alannah|73|55
+274|alannis|74|81
+275|alaois|75|84
+276|alaric|76|14
+277|alasdair|77|73
+278|alastair|78|72
+279|alastar|79|85
+280|alastríona|80|34
+281|alayna|81|36
+282|alba|82|35
+283|alban|83|51
+284|alberic|84|90
+285|albert|85|34
+286|alberta|86|48
+287|albertina|87|54
+288|albertine|88|98
+289|alberto|89|8
+290|albina|90|67
+291|albrecht|91|14
+292|alby|92|97
+293|alcaeus|93|58
+294|alcippe|94|34
+295|alcyone|95|69
+296|alden|96|18
+297|aldo|97|81
+298|aldous|98|92
+299|aldrick|99|85
+300|alea|0|14
+301|alease|1|53
+302|alec|2|15
+303|alechjo|3|85
+304|aled|4|88
+305|aleesha|5|95
+306|aleit|6|18
+307|alejandra|7|94
+308|alejandro|8|77
+309|alejo|9|64
+310|aleksandar|10|18
+311|aleksander|11|77
+312|aleksandr|12|60
+313|aleksandra|13|48
+314|aleksandrina|14|56
+315|aleksandro|15|3
+316|aleksanteri|16|85
+317|aleksei|17|77
+318|aleksi|18|87
+319|alene|19|41
+320|alenka|20|72
+321|ales|21|74
+322|alesha|22|16
+323|alessa|23|85
+324|alessandra|24|97
+325|alessandro|25|78
+326|alessia|26|72
+327|alessio|27|13
+328|aleta|28|9
+329|aletha|29|1
+330|alethea|30|52
+331|alex|31|99
+332|alexa|32|40
+333|alexander|33|62
+334|alexandr|34|87
+335|alexandra|35|72
+336|alexandre|36|56
+337|alexandrea|37|78
+338|alexandria|38|47
+339|alexandrie|39|65
+340|alexandrina|40|60
+341|alexandros|41|44
+342|alexandru|42|93
+343|alexei|43|46
+344|alexej|44|51
+345|alexia|45|1
+346|alexina|46|79
+347|alexise|47|25
+348|alexis|48|26
+349|alexius|49|90
+350|alexus|50|83
+351|alf|51|7
+352|alfeo|52|93
+353|alfhild|53|95
+354|alfons|54|33
+355|alfonsina|55|13
+356|alfonso|56|37
+357|alfred|57|55
+358|alfred|58|84
+359|alfreda|59|62
+360|alfredo|60|97
+361|alfsigr|61|93
+362|algar|62|29
+363|alger|63|42
+364|algernon|64|43
+365|ali|65|5
+366|alia|66|44
+367|aliah|67|18
+368|alice|68|48
+369|alicia|69|16
+370|alida|70|55
+371|aliisa|71|59
+372|alin|72|23
+373|alinae|73|84
+374|alina|74|83
+375|aline|75|33
+376|alis|76|54
+377|alisa|77|43
+378|alisha|78|22
+379|alisia|79|97
+380|alison|80|93
+381|alissa|81|93
+382|alistair|82|43
+383|alister|83|52
+384|alisya|84|57
+385|alix|85|12
+386|aliyah|86|20
+387|aliz|87|20
+388|aliza|88|5
+389|allan|89|44
+390|allannah|90|62
+391|allegra|91|36
+392|allegria|92|14
+393|allen|93|88
+394|allie|94|100
+395|allison|95|36
+396|allon|96|84
+397|ally|97|35
+398|allycia|98|81
+399|allyn|99|56
+400|allyson|0|94
+401|alma|1|82
+402|almas|2|55
+403|almira|3|58
+404|almudena|4|50
+405|alodia|5|25
+406|alois|6|84
+407|aloisia|7|68
+408|aloisio|8|86
+409|alojz|9|79
+410|alon|10|92
+411|alondra|11|82
+412|alonso|12|86
+413|alonzo|13|75
+414|aloysius|14|87
+415|alp|15|8
+416|alpertti|16|95
+417|alpha|17|25
+418|alphaeus|18|73
+419|alphonse|19|80
+420|alphonsine|20|44
+421|alphonso|21|10
+422|alphonsus|22|6
+423|alphonzo|23|87
+424|alpin|24|95
+425|alta|25|68
+426|altan|26|7
+427|alte|27|20
+428|alter|28|70
+429|althea|29|79
+430|alton|30|42
+431|aludra|31|48
+432|alun|32|59
+433|alva|33|99
+434|alvah|34|93
+435|alvar|35|92
+436|alvaro|36|44
+437|alvena|37|86
+438|alvilda|38|70
+439|alvin|39|56
+440|alvina|40|71
+441|alvis|41|73
+442|alwilda|42|30
+443|alwyn|43|62
+444|alya|44|93
+445|alyce|45|68
+446|alyona|46|47
+447|alys|47|71
+448|alysha|48|41
+449|alyson|49|89
+450|alyssa|50|14
+451|alyssia|51|12
+452|alyusha|52|83
+453|alyx|53|89
+454|alzbeta|54|33
+455|ama|55|31
+456|amabel|56|82
+457|amada|57|73
+458|amadeo|58|17
+459|amadeus|59|46
+460|amadie|60|67
+461|amadi|61|6
+462|amale|62|16
+463|amal|63|60
+464|amala|64|47
+465|amalia|65|56
+466|amalia|66|37
+467|amalric|67|7
+468|amalthea|68|94
+469|amanda|69|88
+470|amandine|70|95
+471|amando|71|30
+472|amani|72|97
+473|amar|73|76
+474|amara|74|31
+475|amaranta|75|64
+476|amarante|76|53
+477|amardad|77|43
+478|amariah|78|68
+479|amaryllis|79|5
+480|amaterasu|80|65
+481|amato|81|85
+482|amaury|82|29
+483|amaya|83|52
+484|amber|84|74
+485|ambra|85|92
+486|ambre|86|98
+487|ambrogino|87|20
+488|ambrogio|88|81
+489|ambroise|89|36
+490|ambrose|90|27
+491|ambrosia|91|86
+492|ambrosine|92|57
+493|ambrosio|93|60
+494|ambrus|94|66
+495|amedea|95|51
+496|amedee|96|61
+497|amedeo|97|93
+498|amedeus|98|53
+499|amelia|99|62
+500|amelia|0|76
+501|amelie|1|98
+502|amen|2|55
+503|amenhotep|3|57
+504|america|4|91
+505|americo|5|33
+506|amerigo|6|91
+507|amethyst|7|33
+508|amhlaidh|8|60
+509|amhlaoibh|9|13
+510|ami|10|1
+511|amias|11|70
+512|amice|12|8
+513|amie|13|49
+514|amika|14|97
+515|amilcar|15|51
+516|amilia|16|49
+517|amin|17|71
+518|amina|18|74
+519|aminda|19|2
+520|aminta|20|5
+521|amire|21|81
+522|amir|22|28
+523|amira|23|24
+524|amita|24|77
+525|amittai|25|20
+526|amity|26|68
+527|ammiel|27|16
+528|ammon|28|79
+529|amon|29|9
+530|amos|30|71
+531|amparo|31|69
+532|amrit|32|86
+533|amrita|33|89
+534|amy|34|92
+535|amyas|35|32
+536|amynta|36|19
+537|an|37|12
+538|ana|38|30
+539|anacleto|39|59
+540|anacletus|40|60
+541|anahid|41|97
+542|anahita|42|83
+543|anais|43|94
+544|anaitis|44|46
+545|anakin|45|76
+546|anakoni|46|63
+547|anane|47|47
+548|anan|48|32
+549|anand|49|20
+550|ananda|50|39
+551|anani|51|57
+552|ananias|52|70
+553|ananta|53|19
+554|ananth|54|72
+555|anantha|55|61
+556|anargyros|56|83
+557|anaru|57|79
+558|anas|58|15
+559|anass|59|49
+560|anastacia|60|43
+561|anastas|61|29
+562|anastasia|62|10
+563|anastasie|63|52
+564|anastasio|64|72
+565|anastasios|65|5
+566|anastasius|66|28
+567|anasztaz|67|57
+568|anasztazia|68|11
+569|anat|69|3
+570|anathe|70|33
+571|anath|71|19
+572|anatole|72|17
+573|anatoli|73|56
+574|anatolius|74|52
+575|anatoly|75|37
+576|anatu|76|27
+577|anaxagoras|77|50
+578|anca|78|58
+579|anchjo|79|87
+580|andela|80|63
+581|ander|81|69
+582|anders|82|55
+583|anderson|83|33
+584|andor|84|59
+585|andra|85|54
+586|andras|86|39
+587|andras|87|11
+588|andraste|88|83
+589|andre|89|32
+590|andreae|90|1
+591|andrea|91|77
+592|andreas|92|38
+593|andree|93|64
+594|andreea|94|55
+595|andrei|95|51
+596|andreia|96|33
+597|andrej|97|33
+598|andreja|98|94
+599|andres|99|91
+600|andreu|0|72
+601|andrew|1|57
+602|andriana|2|11
+603|andries|3|5
+604|andrija|4|53
+605|andrina|5|58
+606|andris|6|2
+607|andriy|7|24
+608|andro|8|66
+609|androcles|9|16
+610|andromache|10|82
+611|andromeda|11|71
+612|andronikos|12|5
+613|andrzej|13|26
+614|andy|14|26
+615|ane|15|43
+616|aneirin|16|30
+617|anelie|17|48
+618|anemone|18|6
+619|aneurin|19|43
+620|anfisa|20|41
+621|angel|21|52
+622|angela|22|41
+623|angela|23|56
+624|angele|24|12
+625|angelia|25|87
+626|angelica|26|17
+627|angelika|27|58
+628|angelina|28|95
+629|angeline|29|33
+630|angelique|30|67
+631|angelita|31|30
+632|angelle|32|42
+633|angelo|33|80
+634|angelos|34|36
+635|angerona|35|22
+636|angharad|36|39
+637|angie|37|42
+638|angus|38|33
+639|angyalka|39|77
+640|ania|40|16
+641|anibal|41|6
+642|anica|42|27
+643|anicetus|43|48
+644|aniela|44|7
+645|anika|45|72
+646|aniketos|46|67
+647|anikó|47|29
+648|animae|48|37
+649|anima|49|51
+650|aniruddha|50|8
+651|anisa|51|69
+652|anise|52|72
+653|anisim|53|50
+654|anita|54|24
+655|anja|55|42
+656|anjali|56|21
+657|anjelica|57|94
+658|anka|58|4
+659|anke|59|45
+660|ankur|60|64
+661|ann|61|75
+662|anna|62|34
+663|annabel|63|2
+664|annabella|64|28
+665|annabelle|65|69
+666|annalisa|66|77
+667|annas|67|92
+668|anne|68|66
+669|anneka|69|60
+670|anneke|70|88
+671|anneli|71|22
+672|annelie|72|33
+673|anneliese|73|43
+674|annelise|74|82
+675|annemarie|75|12
+676|annetta|76|1
+677|annette|77|62
+678|annice|78|38
+679|annick|79|37
+680|annie|80|9
+681|anniina|81|39
+682|annika|82|13
+683|annikki|83|54
+684|annis|84|77
+685|annmarie|85|11
+686|annunciata|86|16
+687|annunziata|87|27
+688|annuska|88|56
+689|anona|89|68
+690|anouk|90|48
+691|anoush|91|100
+692|anouska|92|33
+693|anraí|93|32
+694|ansel|94|95
+695|anselm|95|67
+696|anselma|96|80
+697|anselme|97|43
+698|anselmo|98|29
+699|ansgar|99|20
+700|anshel|0|15
+701|anson|1|34
+702|antal|2|23
+703|antanas|3|45
+704|ante|4|45
+705|antero|5|8
+706|anthea|6|26
+707|anthony|7|44
+708|antigone|8|43
+709|antigonus|9|25
+710|antiope|10|11
+711|antipater|11|41
+712|antje|12|78
+713|anto|13|45
+714|antoine|14|78
+715|antoinette|15|8
+716|anton|16|12
+717|antonella|17|30
+718|antonello|18|64
+719|antonette|19|63
+720|antoni|20|10
+721|antonia|21|53
+722|antonie|22|46
+723|antonietta|23|28
+724|antonija|24|17
+725|antonina|25|87
+726|antonino|26|62
+727|antonio|27|49
+728|antonius|28|76
+729|antono|29|14
+730|antony|30|48
+731|antti|31|27
+732|antun|32|82
+733|antwan|33|25
+734|anubis|34|42
+735|anunciación|35|36
+736|anupam|36|44
+737|anushka|37|9
+738|anwar|38|4
+739|anwen|39|4
+740|anwer|40|73
+741|anya|41|65
+742|aodh|42|70
+743|aodhan|43|19
+744|aoibheann|44|75
+745|aoibhín|45|60
+746|aoide|46|26
+747|aoife|47|93
+748|aonghas|48|85
+749|aonghus|49|40
+750|aphra|50|93
+751|aphrodisia|51|6
+752|aphrodisios|52|15
+753|aphrodite|53|51
+754|apikalia|54|57
+755|apolinar|55|11
+756|apollinaire|56|18
+757|apollinaris|57|98
+758|apollinariya|58|56
+759|apolline|59|40
+760|apollo|60|37
+761|apollodoros|61|52
+762|apollonia|62|55
+763|apollonios|63|80
+764|apolonija|64|87
+765|apostolis|65|8
+766|apostolos|66|89
+767|apphia|67|45
+768|appius|68|66
+769|april|69|36
+770|aquila|70|54
+771|arabella|71|5
+772|araceli|72|18
+773|aracelis|73|89
+774|aracely|74|76
+775|arachne|75|74
+776|aragorn|76|74
+777|araminta|77|97
+778|aran|78|5
+779|aranka|79|20
+780|aranrhod|80|24
+781|arantxa|81|49
+782|aras|82|1
+783|arata|83|40
+784|aravinda|84|3
+785|arcadia|85|83
+786|arcangelo|86|65
+787|arcelia|87|86
+788|archelaus|88|22
+789|archibald|89|25
+790|archie|90|12
+791|archimedes|91|96
+792|archippos|92|51
+793|ardal|93|51
+794|ardashir|94|29
+795|arden|95|30
+796|ardghal|96|33
+797|arduino|97|57
+798|areli|98|89
+799|ares|99|62
+800|aretha|0|42
+801|arethusa|1|80
+802|arevig|2|42
+803|argus|3|5
+804|argyris|4|59
+805|argyros|5|50
+806|arie|6|37
+807|ari|7|81
+808|aria|8|45
+809|ariadne|9|28
+810|ariana|10|28
+811|ariane|11|80
+812|arianna|12|44
+813|arianne|13|72
+814|arianrhod|14|70
+815|aric|15|85
+816|ariel|16|46
+817|ariella|17|68
+818|arielle|18|51
+819|arienne|19|38
+820|aries|20|2
+821|arik|21|77
+822|arina|22|75
+823|arisha|23|42
+824|arista|24|10
+825|aristide|25|23
+826|aristides|26|78
+827|aristocles|27|47
+828|aristodemos|28|46
+829|aristomache|29|60
+830|ariston|30|46
+831|aristophanes|31|34
+832|aristotle|32|45
+833|arisu|33|15
+834|arisztid|34|64
+835|arjan|35|77
+836|arjun|36|96
+837|arjuna|37|71
+838|arkadi|38|35
+839|arkadios|39|78
+840|arkady|40|1
+841|arkell|41|48
+842|arleen|42|98
+843|arlen|43|83
+844|arlene|44|78
+845|arlette|45|30
+846|arlie|46|60
+847|arline|47|58
+848|armand|48|16
+849|armando|49|7
+850|armel|50|90
+851|armelle|51|65
+852|armin|52|86
+853|armo|53|62
+854|arn|54|35
+855|arnaldo|55|28
+856|arnau|56|9
+857|arnaud|57|81
+858|arnaude|58|39
+859|arndt|59|10
+860|arnee|60|100
+861|arne|61|74
+862|arnie|62|70
+863|arnold|63|13
+864|aroha|64|51
+865|aroldo|65|78
+866|aron|66|74
+867|aron|67|82
+868|arpad|68|49
+869|arrigo|69|85
+870|arron|70|68
+871|arsen|71|36
+872|arseni|72|86
+873|arsenios|73|10
+874|art|74|51
+875|artair|75|84
+876|artemidoros|76|14
+877|artemis|77|86
+878|artemisia|78|38
+879|artemisios|79|41
+880|arthur|80|88
+881|arttu|81|99
+882|artturi|82|86
+883|artur|83|17
+884|artur|84|54
+885|arturo|85|67
+886|arundhati|86|94
+887|arvel|87|43
+888|arvid|88|78
+889|arvo|89|84
+890|arwen|90|43
+891|aryana|91|19
+892|arzu|92|96
+893|åsa|93|35
+894|asa|94|91
+895|as'ad|95|15
+896|asad|96|4
+897|asaf|97|24
+898|asaph|98|90
+899|asbjorn|99|23
+900|asdís|0|58
+901|asdrubal|1|32
+902|aseem|2|75
+903|asenath|3|59
+904|ash|4|16
+905|asha|5|57
+906|ashanti|6|47
+907|asher|7|91
+908|asherah|8|92
+909|ashlee|9|13
+910|ashleigh|10|20
+911|ashley|11|83
+912|ashlie|12|43
+913|ashling|13|98
+914|ashlyn|14|36
+915|ashlynn|15|88
+916|ashok|16|38
+917|ashoka|17|85
+918|ashtad|18|32
+919|ashton|19|8
+920|ashtoreth|20|19
+921|asia|21|26
+922|asim|22|82
+923|asklepiades|23|21
+924|asklepios|24|49
+925|aslaug|25|82
+926|asli|26|8
+927|aslog|27|20
+928|asløg|28|51
+929|asma|29|38
+930|aspasia|30|24
+931|aspen|31|23
+932|assumpció|32|83
+933|assumpta|33|23
+934|assunta|34|9
+935|asta|35|79
+936|astaroth|36|79
+937|astarte|37|22
+938|astor|38|11
+939|astra|39|56
+940|astraea|40|8
+941|astrid|41|18
+942|astrithr|42|30
+943|astrophel|43|65
+944|asunción|44|97
+945|asya|45|12
+946|ata|46|67
+947|atalanta|47|28
+948|atallah|48|57
+949|atara|49|15
+950|atarah|50|71
+951|ataullah|51|37
+952|atefeh|52|69
+953|athanas|53|16
+954|athanasia|54|76
+955|athanasios|55|78
+956|athanasius|56|65
+957|athelstan|57|27
+958|athena|58|6
+959|athenias|59|76
+960|atieno|60|10
+961|atílio|61|23
+962|atilio|62|50
+963|atiya|63|20
+964|atlas|64|67
+965|atticus|65|14
+966|attila|66|33
+967|attilio|67|100
+968|auberon|68|62
+969|aubree|69|65
+970|aubrey|70|26
+971|aude|71|19
+972|audie|72|6
+973|audley|73|22
+974|audrae|74|41
+975|audra|75|33
+976|audrea|76|2
+977|audrey|77|78
+978|auguste|78|99
+979|august|79|64
+980|augusta|80|84
+981|auguste|81|34
+982|augustijn|82|17
+983|augustin|83|84
+984|augustine|84|35
+985|augusto|85|24
+986|augusts|86|10
+987|augustus|87|69
+988|aukusti|88|31
+989|aulay|89|64
+990|aulus|90|43
+991|aune|91|95
+992|aura|92|35
+993|aurangzeb|93|44
+994|aurel|94|70
+995|aurele|95|33
+996|aurelia|96|11
+997|aureliano|97|30
+998|aurelie|98|23
+999|aurelien|99|86

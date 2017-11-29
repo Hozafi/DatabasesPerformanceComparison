@@ -43,11 +43,13 @@ void GraphGenerator::generateIsFriend(int nb_person, std::vector<std::vector<int
 		cerr << "Error opening GraphIsFriend.txt" << endl;
 		return;
 	}
+	int id = 0;
 	for (int i = 0; i < nb_person - 1; i++) {
 		for (int j = 0; j < 100; j++) {
-			file << "{\"type\":\"edge\",\"schema\":\"dbo\",\"table\":\"FriendWithEdge\",\"id\":" << i << "}" << separator <<
+			file << "{\"type\":\"edge\",\"schema\":\"dbo\",\"table\":\"FriendWithEdge\",\"id\":" << id << "}" << separator <<
 				"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << i << "}" << separator <<
 				"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << tabAmi[i][j] << "}" << endl;
+			id++;
 		}	
 	}
 	file.close();
