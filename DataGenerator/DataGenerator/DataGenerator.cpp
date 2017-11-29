@@ -59,15 +59,22 @@ int main(int argn, char* argv[]) {
 	}
 	
 	for (int i = 0; i < nb_person; i++) {
-		vector<int> tabTmp;
+		vector<int> tmp;
+		tabAmi.push_back(tmp);
+	}
+
+	for (int i = 0; i < nb_person; i++) {
 		for (int j = 0; j < 100; j++) {
 			int random;
 			do {
 				random = rand() % nb_person;
-			} while (random == i || (std::find(tabTmp.begin(), tabTmp.end(), random) != tabTmp.end()));
-			tabTmp.push_back(random);
+			} while (random == i || (std::find(tabAmi[i].begin(), tabAmi[i].end(), random) != tabAmi[i].end()));
+			if (tabAmi[i].size() < 100) {
+				tabAmi[i].push_back(random);
+				tabAmi[random].push_back(i);
+			}
+			else break;
 		}
-		tabAmi.push_back(tabTmp);
 	}
 
 	RelationnalGenerator::generatePerson(tabAge, tabName, nb_person, nbVille, separator);
