@@ -38,7 +38,7 @@ void RelationnalGenerator::generateCity(const std::vector<std::string>& tabCity,
 	file.close();
 }
 
-void RelationnalGenerator::generateIsFriend(int nb_person, char* separator)
+void RelationnalGenerator::generateIsFriend(int nb_person, std::vector<std::vector<int>> tabAmi, char* separator)
 {
 	ofstream file("../../DataGenerated/RelaIsFriend.txt", ios::out | ios::trunc);
 	if (!file) {
@@ -48,7 +48,10 @@ void RelationnalGenerator::generateIsFriend(int nb_person, char* separator)
 	for (int i = 0; i < nb_person - 1; i++) {
 		// Each person is friend with the next Person in the table
 		// There is only the last person who don't have any friend
-		file << i << separator << i + 1 << endl;
+		for (int j = 0; j < 100; j++) {
+			file << i << separator << tabAmi[i][j] << endl;
+		}
+		
 	}
 	file.close();
 }

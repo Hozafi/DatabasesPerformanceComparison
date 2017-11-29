@@ -36,7 +36,7 @@ void GraphGenerator::generateCity(const std::vector<std::string>& tabCity, int n
 	file.close();
 }
 
-void GraphGenerator::generateIsFriend(int nb_person, char* separator)
+void GraphGenerator::generateIsFriend(int nb_person, std::vector<std::vector<int>> tabAmi, char* separator)
 {
 	ofstream file("../../DataGenerated/GraphIsFriend.txt", ios::out | ios::trunc);
 	if (!file) {
@@ -44,9 +44,11 @@ void GraphGenerator::generateIsFriend(int nb_person, char* separator)
 		return;
 	}
 	for (int i = 0; i < nb_person - 1; i++) {
-		file << "{\"type\":\"edge\",\"schema\":\"dbo\",\"table\":\"FriendWithEdge\",\"id\":" << i << "}" << separator << 
-			"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << i << "}" << separator << 
-			"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << i + 1 << "}" << endl;
+		for (int j = 0; j < 100; j++) {
+			file << "{\"type\":\"edge\",\"schema\":\"dbo\",\"table\":\"FriendWithEdge\",\"id\":" << i << "}" << separator <<
+				"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << i << "}" << separator <<
+				"{\"type\":\"node\",\"schema\":\"dbo\",\"table\":\"PersonNode\",\"id\":" << tabAmi[i][j] << "}" << endl;
+		}	
 	}
 	file.close();
 }

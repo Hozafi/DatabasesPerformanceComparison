@@ -4,7 +4,7 @@
 
 #include "GraphGenerator.h"
 #include "RelationnalGenerator.h"
-
+#include <algorithm>
 using namespace std;
 
 int main(int argn, char* argv[]) {
@@ -13,6 +13,7 @@ int main(int argn, char* argv[]) {
 	vector<int> tabAge;
 	vector<string> tabCity;
 	vector<string> tabName;
+	vector<vector<int>> tabAmi;
 	srand(time(NULL));
 	int nb_person = NB_PERSON;
 	int nbVille = NB_VILLE;
@@ -57,13 +58,26 @@ int main(int argn, char* argv[]) {
 		tabAge.push_back((rand() % 100) + 1);
 	}
 	
+	for (int i = 0; i < nb_person; i++) {
+		vector<int> tabTmp;
+		for (int j = 0; j < 100; j++) {
+			int random;
+			do {
+				random = rand() % nb_person;
+
+			} while (random == i);
+			tabTmp.push_back(random);
+		}
+		tabAmi.push_back(tabTmp);
+	}
+
 	RelationnalGenerator::generatePerson(tabAge, tabName, nb_person, nbVille, separator);
 	RelationnalGenerator::generateCity(tabCity, nbVille, separator);
-	RelationnalGenerator::generateIsFriend(nb_person, separator);
+	RelationnalGenerator::generateIsFriend(nb_person, tabAmi, separator);
 
 	GraphGenerator::generatePerson(tabAge,tabName, nb_person, separator);
 	GraphGenerator::generateCity(tabCity, nbVille, separator);
-	GraphGenerator::generateIsFriend(nb_person, separator);
+	GraphGenerator::generateIsFriend(nb_person, tabAmi, separator);
 	GraphGenerator::generateLiveIn(nb_person, nbVille, separator);
 	
 
