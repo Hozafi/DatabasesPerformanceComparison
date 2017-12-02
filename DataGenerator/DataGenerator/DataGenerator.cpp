@@ -70,7 +70,7 @@ int main(int argn, char* argv[]) {
 			do {
 				random = rand() % nb_person;
 			} while (random == i || (std::find(tabAmi[i].begin(), tabAmi[i].end(), random) != tabAmi[i].end()));
-			if (tabAmi[i].size() < 100) {
+			if (tabAmi[i].size() < nbAmi) {
 				tabAmi[i].push_back(random);
 				tabAmi[random].push_back(i);
 			}
