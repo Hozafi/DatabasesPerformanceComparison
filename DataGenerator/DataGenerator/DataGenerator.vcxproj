@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -18,11 +18,21 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DataGenerator.cpp" />
+    <ClCompile Include="GraphGenerator.cpp" />
+    <ClCompile Include="RelationnalGenerator.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GraphGenerator.h" />
+    <ClInclude Include="Parameter.h" />
+    <ClInclude Include="RelationnalGenerator.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{64A6EF41-E3BB-4159-ADE8-7E670A477461}</ProjectGuid>
+    <ProjectGuid>{8D635D8B-7C11-4005-A849-DE4C9DE5BBFA}</ProjectGuid>
     <RootNamespace>DataGenerator</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.10586.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -110,16 +120,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="DataGenerator.cpp" />
-    <ClCompile Include="GraphGenerator.cpp" />
-    <ClCompile Include="RelationnalGenerator.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="GraphGenerator.h" />
-    <ClInclude Include="Parameter.h" />
-    <ClInclude Include="RelationnalGenerator.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -1,10 +1,9 @@
 #pragma once
 
-#include <time.h>
-
 #include "GraphGenerator.h"
 #include "RelationnalGenerator.h"
 #include <algorithm>
+#include <time.h>
 using namespace std;
 
 int main(int argn, char* argv[]) {
@@ -17,12 +16,14 @@ int main(int argn, char* argv[]) {
 	srand(time(NULL));
 	int nb_person = NB_PERSON;
 	int nbVille = NB_VILLE;
+	int nbAmi = NB_AMI;
 	char* separator = SEPARATOR;
 
-	if (argn == 4) {
+	if (argn == 5) {
 		nb_person = atoi(argv[1]);
 		nbVille = atoi(argv[2]);
-		separator = argv[3];
+		nbAmi = atoi(argv[3]);
+		separator = argv[4];
 	}
 	else if (argn != 1) {
 		cerr << "There is a problem with your argument" << endl << "Put either no argument or DataGenerator.exe NB_PERSON SEPARATOR" << endl;
@@ -64,7 +65,7 @@ int main(int argn, char* argv[]) {
 	}
 
 	for (int i = 0; i < nb_person; i++) {
-		for (int j = 0; j < 100; j++) {
+		for (int j = 0; j < nbAmi; j++) {
 			int random;
 			do {
 				random = rand() % nb_person;
@@ -79,11 +80,11 @@ int main(int argn, char* argv[]) {
 
 	RelationnalGenerator::generatePerson(tabAge, tabName, nb_person, nbVille, separator);
 	RelationnalGenerator::generateCity(tabCity, nbVille, separator);
-	RelationnalGenerator::generateIsFriend(nb_person, tabAmi, separator);
+	RelationnalGenerator::generateIsFriend(nb_person, nbAmi, tabAmi, separator);
 
 	GraphGenerator::generatePerson(tabAge,tabName, nb_person, separator);
 	GraphGenerator::generateCity(tabCity, nbVille, separator);
-	GraphGenerator::generateIsFriend(nb_person, tabAmi, separator);
+	GraphGenerator::generateIsFriend(nb_person, nbAmi, tabAmi, separator);
 	GraphGenerator::generateLiveIn(nb_person, nbVille, separator);
 	
 
